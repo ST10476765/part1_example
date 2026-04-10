@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace git_example
-{
+{//start of namespace
     public class Program
     {
         static void Main(string[] args)
